@@ -1,5 +1,8 @@
-# Results of DCGAN (Deep Convolutional Generative Adversarial Networks) vs VAE (Variational Autoencoders) for Anime Face Generation:
-## Example outputs of VAE:
+# Repository for DCGAN vs VAE challenge for Anime Face Generation:
+## Results:
+### Example outputs of VAE (Variational Autoencoders):
 ![VAE](/examples/VAE.png)
-## Example outputs of DCGAN:
+## Example outputs of DCGAN (Deep Convolutional Generative Adversarial Networks):
 ![DCGAN](/examples/DCGAN.png)
+
+### Personally, I think VAE wins! :stuck_out_tongue:
