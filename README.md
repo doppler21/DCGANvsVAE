@@ -1,4 +1,4 @@
-# Repository for DCGAN vs VAE challenge for Anime Face Generation:
+# Repository for DCGAN vs VAE challenge for Anime Face Generation ([dataset](https://github.com/bchao1/Anime-Face-Dataset)):
 ## Results:
 ### Example outputs of VAE (Variational Autoencoders):
 ![VAE](/examples/VAE.png)
